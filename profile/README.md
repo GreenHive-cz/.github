@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E14&height=150&section=header&text=%3E_%20GreenHive&fontColor=39FF14&fontSize=60&fontAlignY=45&desc=Licensed%20medicinal%20cannabis%20%26%20hemp%20distribution&descAlignY=70&descSize=16&descColor=22D3EE" alt="GreenHive" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E14&height=150&section=header&text=%3E_%20GreenHive&fontColor=39FF14&fontSize=60&fontAlignY=45&desc=Licensed%20medicinal%20cannabis%20and%20hemp%20distribution&descAlignY=70&descSize=16&descColor=22D3EE" alt="GreenHive" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF14&background=0A0E14&center=true&vCenter=true&width=900&height=45&lines=SU%CC%81KL%20%2F%20GDP%20compliant%20%C2%B7%20medicinal%20cannabis%20%C2%B7%20hemp%20%26%20CBD%20wholesale%20%C2%B7%20EU%20distribution;compliance-grade%20software%20%C2%B7%20Python%20%C2%B7%20Docker%20%C2%B7%20Tailscale%20%C2%B7%20SQLite%20%C2%B7%20automation" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF14&background=0A0E14&center=true&vCenter=true&width=900&height=45&lines=SU%CC%81KL%20%2F%20GDP%20compliant%20%C2%B7%20medicinal%20cannabis%20%C2%B7%20hemp%20and%20CBD%20wholesale%20%C2%B7%20EU%20distribution;compliance-grade%20software%20%C2%B7%20Python%20%C2%B7%20Docker%20%C2%B7%20Tailscale%20%C2%B7%20SQLite%20%C2%B7%20automation" alt="tagline" />
 
 `medicinal cannabis` · `hemp / CBD wholesale` · `GDP warehouse` · `EU distribution` · `compliance software`
 
